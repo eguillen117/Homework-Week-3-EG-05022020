@@ -1,37 +1,69 @@
-// Assignment Code
-var generateBtn = document.querySelector("#generate");
-var lowercase ="abcdefghijklmnopqrstuvwxyz"
+// Assignment Code - Variables =======
+var alphaNumArray =[];
+var lowercase ="abcdefghijklmnopqrstuvwxyz";
+var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var numbers = "0123456789";
+var special characters = "!\"#$%&'()*+,-./:;<=>?@[]^_`{|}~";
 
 
-// Write password to the #password input
-function writePassword() {
-  var password = generatePassword();
-  var passwordText = document.querySelector("#password");
 
-  passwordText.value = password;
-
-}
-var questions = {
-    {q:"How many characters would you like the password to be?", a: "tn"}
+// Write Functions =================
+function generatePassword(){
+    var passwordString="";
+  
 }
 
-
-// Add event listener to generate button
-generateBtn.addEventListener("click", writePassword)
 
 function getPassLength() {
     var userPassLength = prompt(
-        "Enter your desired password length bewteen 8-20"
+        "Enter your desired password length bewteen 8-20";
     )
 }
 
 
+// Questions ======================
+useLowerCase=confirm("Do you want to include lowercase characters?");
+        useUpperCase=confirm("Do you want to include uppercase characters?");
+        useNumeric=confirm("Do you want to include numeric characters?");
+        useSpecial=confirm("Do you want to include special characters?");
+
+
+        
+// Add event listener to generate button
+generateBtn.addEventListener("click", writePassword)
+
+// populates the overall alphanumeric array that will add each selected PW criteria to array that will be the new pw
+if (useLowerCase==true){
+    alphaNumArray.push(lowerCaseChar);
+}
+if (useUpperCase==true){
+    alphaNumArray.push(upperCaseChar)
+}
+if (useNumeric==true){
+    alphaNumArray.push(numericChar)
+}
+if (useSpecial==true){
+    alphaNumArray.push(specialChar)
+
+
+    //LOOPS =============
+    for(var i=0;i<passwordLength;i++){
+        var randomCharArrayNum;
+        var selectedCharArray;
+        var randomCharNum;
+        var randomChar;
 
 
 
-// Brain storming area
+    
+PasswordEntry.documentWrite = passwordString;
+
+
+// Brain storming area ====================================
 
 //PLANNING AND MY PERSONAL NOTES
+
+// Welcome Alert
 
 // 1. PROMPT ASK HOW MANY CHARACTERS
 // 2. PROMT ASK IF THEY WANT NUMBERS
