@@ -15,11 +15,11 @@ Visual Studio Code
 
 ### Screenshots and Examples
 
-![](Screenshots/Screenshot1.png)
+![](Screenshots/screenshot1.png)
 
-![](Screenshots/Screenshot3.png)
+![](Screenshots/screenshot3.png)
 
-![](Screenshots/Screenshot6.png)
+![](Screenshots/screenshot6.png)
 
 ## Built With Visual Studio Code and Bootstrap
 
