@@ -72,7 +72,7 @@ header {
   clear: both;
 }
 
-.btn {
+#generateButton {
   border: none;
   background-color: hsl(360, 91%, 36%);
   border-radius: 25px;
@@ -88,16 +88,11 @@ header {
   cursor: pointer;
 }
 
-button[disabled] {
-  cursor: default;
-  background: #c0c7cf;
-}
-
 .float-right {
   float: right;
 }
 
-#password {
+#passwordEntry {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
