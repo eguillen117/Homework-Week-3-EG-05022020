@@ -1,6 +1,6 @@
 # Unit 03 Password Generator Homework
 
-For this homework assisgnment we are tasked to create responsive web pages showcasing an example portofolio site by primarly using Bootstrap CSS Frameworks. 
+For this homework assisgnment we are tasked to create responsive Password Generator page using Javascript. 
 
 ## Getting Started
 
@@ -15,16 +15,17 @@ Visual Studio Code
 
 ### Screenshots and Examples
 
-![](Screenshots/screenshot1.png)
+![](screenshots/screenshot1.png)
 
-![](Screenshots/screenshot3.png)
+![](screenshots/screenshot2.png)
 
-![](Screenshots/screenshot6.png)
+![](screenshots/screenshot3.png)
 
-## Built With Visual Studio Code and Bootstrap
+## Built With Visual Studio Code
 
 * [VCS]
-* [Bootstrap]
+* [JavaScript]
+* [CSS and HTML]
 
 
 ## Authors
@@ -38,6 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to Bootstrap
+* Hat tip to Joe Exotic
 * Godfre,Best for support
-* My dog Elise
+* My dog, Elise
