@@ -4,9 +4,8 @@ For this homework assisgnment we are tasked to create responsive Password Genera
 
 ## Getting Started
 
-To access the webpages please visit https://eguillen117.github.io/Homework-Week-3-EG-05022020/
+To access the webpages please visit https://eguillen2305.github.io/JS-Password-Generator/
 
-To access the raw code you may visit github https://github.com/eguillen117/Homework-Week-3-EG-05022020
 
 ### Prerequisites
 GitHub
