@@ -7,11 +7,6 @@ For this homework assisgnment we are tasked to create responsive Password Genera
 To access the webpages please visit https://eguillen2305.github.io/JS-Password-Generator/
 
 
-### Prerequisites
-GitHub
-Visual Studio Code
-
-
 ### Screenshots and Examples
 
 ![](screenshots/screenshot1.png)
@@ -29,7 +24,7 @@ Visual Studio Code
 
 ## Authors
 
-* **Eduardo Guillen ** - [UTSA BCS](https://github.com/eguillen117
+* **Eduardo Guillen ** - [UTSA BCS](https://github.com/eguillen2305
 
 
 ## License
@@ -39,5 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to Joe Exotic
-* Godfre,Best for support
 * My dog, Elise
